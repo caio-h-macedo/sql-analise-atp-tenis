@@ -1,4 +1,4 @@
-# Análise de Jogos e Títulos da ATP com SQL
+# Análise de Jogos e Títulos da ATP (Association of Tennis Professionals) com SQL
 
 ## Objetivo
 Analisar dados históricos de partidas da ATP com o objetivo de entender a distribuição dos jogos ao longo dos anos, identificar os jogadores com mais vitórias e títulos, além de analisar categorias de torneios, pisos de quadra e um recorte específico do ano de 2024.
