@@ -1,6 +1,4 @@
-## Primeiro projeto do meu Portfolio. Aceito sugestões :)
-
-#Análise de Jogos e Títulos da ATP com SQL
+# Análise de Jogos e Títulos da ATP (Association of Tennis Professionals) com SQL
 
 ## Objetivo
 Analisar dados históricos de partidas da ATP com o objetivo de entender a distribuição dos jogos ao longo dos anos, identificar os jogadores com mais vitórias e títulos, além de analisar categorias de torneios, pisos de quadra e um recorte específico do ano de 2024.
@@ -94,3 +92,4 @@ Essa abordagem permitiu comparar o comportamento de um ano específico com o cen
 ## Considerações finais
 Este projeto tem como objetivo demonstrar a aplicação prática de SQL em uma análise exploratória de dados, utilizando agregações, filtros, funções de data e organização lógica das consultas.
 Reintero que estou em processo de aprendizado e aceito críticas e sugestões.
+
