@@ -5,7 +5,7 @@ SELECT
 from atp_tennis
 WHERE strftime('%Y', date) = '2024'
 GROUP BY categoria
-ORDER BY quantidade desc
+ORDER BY quantidade desc;
 
 -- Piso mais utilizado nos jogos em 2024.
 SELECT
@@ -14,7 +14,7 @@ SELECT
 from atp_tennis
 WHERE strftime('%Y', date) = '2024'
 GROUP BY piso
-ORDER BY quantidade desc
+ORDER BY quantidade desc;
 
 -- Maior vencedor de campeonatos de 2024:
 SELECT 
@@ -23,4 +23,4 @@ SELECT
 from atp_tennis
 WHERE Round = "The Final" AND strftime('%Y', date) = '2024'
 GROUP BY vencedor
-ORDER BY titulos_2024 DESC	
+ORDER BY titulos_2024 DESC;
